@@ -28,4 +28,4 @@
 
 
 
-![EXEMPLO](C:\Users\guilherme\Desktop\EXEMPLO.PNG)               
+ ![exemplo-função](C:\Users\guilherme\Documents\Dio-Full-Stack-Developer\introdução-java-script\imagens\exemplo-função.PNG)        

@@ -17,4 +17,4 @@
 
 
 
-![exemplo 1](C:\Users\guilherme\Desktop\exemplo 1.PNG)
+![exemplo-js](C:\Users\guilherme\Documents\Dio-Full-Stack-Developer\introdução-java-script\imagens\exemplo-js.PNG)
