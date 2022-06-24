@@ -28,4 +28,4 @@
 
 
 
- ![exemplo-função](C:\Users\guilherme\Documents\Dio-Full-Stack-Developer\introdução-java-script\imagens\exemplo-função.PNG)        
+ ![exemplo-função](https://user-images.githubusercontent.com/106972475/175656506-c881b3b3-b94a-465f-b74c-8dfac1213f54.PNG) 
