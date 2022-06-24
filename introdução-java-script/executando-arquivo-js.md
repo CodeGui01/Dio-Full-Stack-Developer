@@ -17,4 +17,4 @@
 
 
 
-![exemplo-js](C:\Users\guilherme\Documents\Dio-Full-Stack-Developer\introdução-java-script\imagens\exemplo-js.PNG)
+![exemplo-js](https://user-images.githubusercontent.com/106972475/175656979-1b595877-6b43-404f-8939-74d7dca5c9c7.PNG)
