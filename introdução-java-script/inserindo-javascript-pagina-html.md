@@ -13,11 +13,12 @@
 
 
 
-- Em cima da linha de código do título do site, execute o comando para importar o arquivo **CSS** no arquivo **HTML**:      **<link rel ="stylesheet" href = "local de referência" />**
+- Em cima da linha de código do título do site, execute o comando para importar o arquivo **CSS** no arquivo **HTML**:      
+**< link rel ="stylesheet" href = "local de referência" />**
 
 ​       *Exemplo:* 
 
-
+![importar-css](https://user-images.githubusercontent.com/106972475/176302494-3fceb8a2-52e8-4276-b4fe-35cbd407d70d.JPG)
 
 
 
@@ -29,7 +30,7 @@
 
   *Exemplo:*
 
-
+![importar-js](https://user-images.githubusercontent.com/106972475/176302774-45a25431-da1a-42c3-ade7-59d9151ce143.JPG)
 
 
 
@@ -37,7 +38,7 @@
 
   *Exemplo:*
 
-
+![bodys](https://user-images.githubusercontent.com/106972475/176302912-a8d4df33-0020-4f47-90d2-abd001efe448.JPG)
 
 
 
@@ -47,7 +48,7 @@
 
   *Exemplo:*          
 
-  ​                                                          
+  ![console](https://user-images.githubusercontent.com/106972475/176303081-8f86989f-f2f1-4f0e-9265-4839afa4e1f5.JPG)​                                                          
 
 
 
@@ -57,9 +58,11 @@
 
   *Exemplo:* 
 
-
+![color-bodys](https://user-images.githubusercontent.com/106972475/176303268-5e7bf91b-9ad6-4a9f-b7b2-ed6fd563d4de.JPG)
 
 
 
 - Depois disso, clique com o botão direito em cima do arquivo **HTML** e clique na opção **"Reveal in file explorer"**
 - Clique no arquivo compatível com seu navegador e veja seu site!
+ 
+![site-gui](https://user-images.githubusercontent.com/106972475/176302018-a59d7cd7-0dde-442a-b73c-3a1039f54317.JPG)
